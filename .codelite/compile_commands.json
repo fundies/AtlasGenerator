@@ -1,0 +1,9 @@
+[{
+  "directory": "/home/greg/AtlasGenerator2",
+  "command": "/usr/bin/clang++ -g -W -std=c++11 -fPIC -I. -I. -I/usr/include/qt -I/usr/include/qt/QtCore -I/usr/include/qt/QtGui/ -I/usr/include/qt/QtWidgets/ -MG -MP -MT./Debug/main.cpp.o -MF./Debug/main.cpp.o.d -MM main.cpp",
+  "file": "/home/greg/AtlasGenerator2/main.cpp"
+ }, {
+  "directory": "/home/greg/AtlasGenerator2",
+  "command": "/usr/bin/clang++ -c /home/greg/AtlasGenerator2/main.cpp -g -W -std=c++11 -fPIC -o ./Debug/main.cpp.o -I. -I. -I/usr/include/qt -I/usr/include/qt/QtCore -I/usr/include/qt/QtGui/ -I/usr/include/qt/QtWidgets/",
+  "file": "/home/greg/AtlasGenerator2/main.cpp"
+ }]
